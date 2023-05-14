@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.com.strategy.LowestPriceBookingStrategyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-14T07:43:27" hostname="88665a36dcdd.ant.amazon.com" time="1.131">
+  <properties/>
+  <testcase name="testGetVehicleWithBranches()" classname="org.com.strategy.LowestPriceBookingStrategyTest" time="1.119"/>
+  <testcase name="testGetVehicleWithNoBranches()" classname="org.com.strategy.LowestPriceBookingStrategyTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
